@@ -4,13 +4,13 @@
   <groupId>com.whippetlabs.test</groupId>
   <artifactId>test-app</artifactId>
   <packaging>jar</packaging>
-  <version>1.0</version>
+  <version>1.0-SNAPSHOT</version>
   <name>test-app</name>
   <url>http://maven.apache.org</url>
   <scm>
     <connection>scm:git:git@github.com:jdarley/test-app.git</connection>
     <developerConnection>scm:git:git@github.com:jdarley/test-app.git</developerConnection>
-    <tag>v1.0</tag>
+    <tag>HEAD</tag>
   </scm>
   <distributionManagement>
     <snapshotRepository>
